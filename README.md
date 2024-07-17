@@ -1,2 +1,2 @@
 # Intro-DS
-An self project on 
+Intro-DS
